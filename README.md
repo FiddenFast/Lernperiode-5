@@ -12,6 +12,7 @@ In diesem Abschnitt möchte ich am Anfang noch etwas für Modul 106 arbeit und d
 - [ ] Bild einfügen in Html
 - [ ] Modul 106 Auftrag 2410
 - [ ] Modul 106 Auftrag 2411
-✍️ Heute habe ich... (50-100 Wörter)
+      
+-✍️ Heute habe ich... (50-100 Wörter)
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
