@@ -8,10 +8,10 @@ In diesem Abschnitt möchte ich am Anfang noch etwas für Modul 106 arbeit und d
 ✍️ Heute habe ich an Html gearbeitet und die ersten Funktionen mit Titel gelernt. Sowie an den Aufträgen vom Modul 106 dort habe in Sql den Restore Befehl angewendet und neue abfragen mit Join. (50-100 Wörter)
 
 ## 30.4.2024
-[ ] Text einfügen in Html
-[ ] Bild einfügen in Html
-[ ] Modul 106 Auftrag 2410
-[ ] Modul 106 Auftrag 2411
+- [ ] Text einfügen in Html
+- [ ] Bild einfügen in Html
+- [ ] Modul 106 Auftrag 2410
+- [ ] Modul 106 Auftrag 2411
 ✍️ Heute habe ich... (50-100 Wörter)
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
