@@ -5,7 +5,7 @@
 In diesem Abschnitt möchte ich am Anfang noch etwas für Modul 106 arbeiten und dann eine Webseite programmieren. Im Programmieren möchte ich besser werden, da man dort ein defizit in meinen Noten sieht. Daher will ich eine Webseite programmieren.
 
 ## 23.4.2024
-✍️ Heute habe ich an Html gearbeitet und die ersten Funktionen mit Titel gelernt. Sowie an den Aufträgen vom Modul 106 dort habe in Sql den Restore Befehl angewendet und neue abfragen mit Join. (50-100 Wörter)
+-✍️ Heute habe ich an Html gearbeitet und die ersten Funktionen mit Titel gelernt. Sowie an den Aufträgen vom Modul 106 dort habe in Sql den Restore Befehl angewendet und neue abfragen mit Join. (50-100 Wörter)
 
 ## 30.4.2024
 - [x] Text einfügen in Html
@@ -17,10 +17,17 @@ In diesem Abschnitt möchte ich am Anfang noch etwas für Modul 106 arbeiten und
 
 ## 7.5.2024
 - [ ] Textfelder erstellen, anordnen und füllen
-- [ ] Das Bild verschieben das es oben mittig als Logo dargestellt wird.
+- [x] Das Bild verschieben das es oben mittig als Logo dargestellt wird.
 - [ ] Hintergrundbild einfügen
 - [ ]  fade-in-effekt für Texte
 
+- Heute konnte ich leider nicht an HTML arbeiten. Stattdessen habe ich mich auf Modul 106 und dessen Dokumentation fokussiert. Die Zeit war gut investiert, da ich wichtige Aspekte des Moduls klären und dokumentieren konnte, was meinem Fortschritt in diesem Bereich zugutekommt.
+
+## 14.5.2024
+- [ ] Textfelder erstellen, anordnen und füllen
+- [ ] Hintergrundbild einfügen
+- [ ] fade-in-effekt für Texte
+- [ ] Dropdown menu
   
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
