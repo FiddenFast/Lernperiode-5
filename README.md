@@ -32,9 +32,9 @@ In diesem Abschnitt möchte ich am Anfang noch etwas für Modul 106 arbeiten und
 - Heute habe ich an den Textfeldern gearbeitet, Inhalt eingefügt und ein Hintergrundbild eingefügt, dieses habe ich jedoch wieder entfernt da es nicht gut aussah. Habe den fade in effekt für meinen Text eingefügt. Bei der Funktion eines dropdown Menus konnte ich Fortschritt machen, es funktiort aber noch nicht so richtig.
 
 ## 21.5.2024
--[ ] Textfelder anordnung verbessern
--[ ] Dropdown menu
--[ ] Design verbessern
--[ ] Weitere Bilder anfügen
+- [ ] Textfelder anordnung verbessern
+- [ ] Dropdown menu
+- [ ] Design verbessern
+- [ ] Weitere Bilder anfügen
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
