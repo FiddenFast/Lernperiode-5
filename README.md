@@ -26,10 +26,10 @@ In diesem Abschnitt möchte ich am Anfang noch etwas für Modul 106 arbeiten und
 ## 14.5.2024
 - [x] Textfelder erstellen, anordnen und füllen
 - [x] Hintergrundbild einfügen
-- [x] fade-in-effekt für Texte
+- [ ] fade-in-effekt für Texte
 - [ ] Dropdown menu
 
-- Heute habe ich an den Textfeldern gearbeitet, Inhalt eingefügt und ein Hintergrundbild eingefügt, dieses habe ich jedoch wieder entfernt da es nicht gut aussah. Habe den fade in effekt für meinen Text eingefügt. Bei der Funktion eines dropdown Menus konnte ich Fortschritt machen, es funktiort aber noch nicht so richtig.
+- Heute habe ich an den Textfeldern gearbeitet, Inhalt eingefügt und ein Hintergrundbild eingefügt, dieses habe ich jedoch wieder entfernt da es nicht gut aussah. Bei der Funktion eines dropdown Menus konnte ich Fortschritt machen, es funktiort aber noch nicht so richtig.
 
 ## 21.5.2024
 - [ ] Textfelder anordnung verbessern
