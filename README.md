@@ -37,4 +37,12 @@ In diesem Abschnitt möchte ich am Anfang noch etwas für Modul 106 arbeiten und
 - [ ] Design verbessern
 - [ ] Weitere Bilder anfügen
 
+-Heute konnte ich nicht wirklich an den Aufträgen arbeiten da ich die Nachprüfung vom Modul 117 schreiben.
+
+## 4.6.2024
+- [ ] Textfelder anordnung verbessern
+- [ ] Dropdown menu
+- [ ] Design verbessern
+- [ ] Weitere Bilder anfügen
+
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
