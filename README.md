@@ -48,10 +48,10 @@ In diesem Abschnitt möchte ich am Anfang noch etwas für Modul 106 arbeiten und
 - Heute habe ich die Anordnung der Textfelder optimiert und das Dropdown-Menü verbessert. Am Design der Webseite wurde ebenfalls gearbeitet und zusätzliche Bilder eingefügt. Es gibt noch kleinere Anpassungen vorzunehmen, aber insgesamt gute Fortschritte.
 
 ## 11.6.2024
--[ ] Textfelder-Anordnung verbessern
--[ ] Dropdown-Menü finalisieren
--[ ] Design verbessern
--[ ] Fade-in-Effekt für Texte hinzufügen
+- [ ] Textfelder-Anordnung verbessern
+- [ ] Dropdown-Menü finalisieren
+- [ ] Design verbessern
+- [ ] Fade-in-Effekt für Texte hinzufügen
 
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
