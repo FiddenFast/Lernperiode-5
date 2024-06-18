@@ -53,5 +53,17 @@ In diesem Abschnitt möchte ich am Anfang noch etwas für Modul 106 arbeiten und
 - [ ] Design verbessern
 - [ ] Fade-in-Effekt für Texte hinzufügen
 
+## 18.6.2024
+- [x] neues Html Projekt erstellen und Idee suchen
+- [x] Subpages einbauen
+- [x] Bilder einfügen
+- [x] Basis Text einfügen
+
+Heute habe ich an meinem neuen Html Projekt gearbeitet. Ich habe eine Idee gefunden und dann angefangen den Code zu schreiben. Ich habe ein eigenes Bild eingefügt und Subpages erstellt. Der Basis Code steht, jedoch muss ich noch einiges verbessern und mehr Inhalt einfügen.
+
+## 25.6.2024
+- [ ] Kontakt einfügen, Text ergänzen
+- [ ] Style verbessern
+
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
