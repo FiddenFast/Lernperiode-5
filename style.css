@@ -1,0 +1,64 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: white;
+    margin: 0;
+    padding: 0;
+    
+}
+
+h1 {
+    color: black;
+    text-align: center;
+    margin-top: 20px;
+    
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    text-align: center;
+    background-color: #575757;
+    
+}
+
+ul li {
+    display: inline;
+    margin-right: 10px;
+}
+
+ul li a {
+    color: white;
+    text-decoration: none;
+    padding: 10px 20px;
+    display: inline-block;
+    
+}
+
+ul li a:hover {
+    background-color: #575757;
+}
+
+div {
+    margin: 20px auto;
+    max-width: 800px;
+    padding: 20px;
+    background-color: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    position: sticky;
+}
+
+p.school, p.sport {
+    font-size: 1.2em;
+    color: black;
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    max-width: 40%;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
